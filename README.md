@@ -6,8 +6,8 @@ repository for the following google colab
 https://colab.research.google.com/drive/1kiyZIZuOYF35DyVN0QpTn8u0XDOFk0lU?usp=sharing
 
 
-## Results:
-/n
+## Results
+<br/>
 ![at sunset](https://user-images.githubusercontent.com/73414720/166861264-f7b9fc44-fae8-4e7e-b7a1-b1646f59d03d.png)
 ![earth day](https://user-images.githubusercontent.com/73414720/166861273-a25db418-db58-4eed-be6b-0d94d793fdba.png)
 ![often i am permitted to return to a meadow](https://user-images.githubusercontent.com/73414720/166861280-0a188a67-dfe9-49a2-9d8d-642eeccdc264.png)
@@ -20,3 +20,6 @@ https://colab.research.google.com/drive/1kiyZIZuOYF35DyVN0QpTn8u0XDOFk0lU?usp=sh
 ![tuesday, canal street](https://user-images.githubusercontent.com/73414720/166861327-1e0c3814-6922-4c77-8071-defef08828fe.png)
 ![work of love](https://user-images.githubusercontent.com/73414720/166861329-f35e5e6b-83a6-4ac3-af3d-2b2b04790445.png)
 ![did it hurt when you fell from heaven](https://user-images.githubusercontent.com/73414720/166861336-5755df5c-1a1a-4047-869c-3c75bc42cf38.png)
+<br/>
+## How it works
+<br/>

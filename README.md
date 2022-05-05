@@ -22,7 +22,7 @@ https://colab.research.google.com/drive/1kiyZIZuOYF35DyVN0QpTn8u0XDOFk0lU?usp=sh
 <br/>
 
 ## How it works
-A single tree graph is gererated from each sentence in the input poem, with each vertical branch representing one semantic element (Most of the time, a word or a punctuation, but sometime a part of a word like "not" in cannot or "'s" in Monday's.). The tree's stucture is based on the sematic dependency tree of the sentense.  The color of the branch is based on the part-of-speech analysis of the semantic element, such maroon for verbs and deep green for nouns. The horizontal postion of each branch matches the postion of the word in the sentence when typed out and centered, as shown below.
+A single tree graph is gererated from each sentence in the input poem, with each vertical branch representing one semantic element (Most of the time, a word or a punctuation, but sometime a part of a word like "not" in cannot or "'s" in Monday's.). The tree's stucture is based on the sematic dependency tree of the sentense.  The color of the branch is based on the part-of-speech analysis of the semantic element, such maroon for verbs and deep green for nouns. The horizontal postion of each branch matches the postion of the word in the sentence when typed out and centered, as shown below.<br/>
 ![line 17](https://user-images.githubusercontent.com/73414720/166862078-50671d55-4004-40ab-9f86-39cbd9e4c984.png)
 ![line 9](https://user-images.githubusercontent.com/73414720/166862087-93e21af9-cb4b-4876-9ff8-46bd212cc02e.png)
 ![line 4](https://user-images.githubusercontent.com/73414720/166862102-692e81a3-777d-4f77-9cc6-8b82305fa195.png)
@@ -30,6 +30,6 @@ A single tree graph is gererated from each sentence in the input poem, with each
 ![line 7](https://user-images.githubusercontent.com/73414720/166862120-8a28bbee-c707-42f2-964c-083b3bf29583.png)
 ![line 16](https://user-images.githubusercontent.com/73414720/166862136-1a33abd4-acea-45be-b5de-4417716bcb58.png)
 Then these lines are overlapped on top of each other, forming the final tree graph of the poem.
-The poem is then typed out with the same coloration rule, next to the tree graph.
+The poem is then typed out with the same coloration rule, next to the tree graph.<br/>
 ![Wide](https://user-images.githubusercontent.com/73414720/166862280-6f415a7b-5113-4245-b3a7-3ce117b7c3b4.png)
 

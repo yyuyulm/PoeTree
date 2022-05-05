@@ -37,8 +37,8 @@ The poem is then typed out with the same coloration rule, next to the tree graph
 ![Wide](https://user-images.githubusercontent.com/73414720/166862280-6f415a7b-5113-4245-b3a7-3ce117b7c3b4.png)
 <br/>
 ## References and Credits
-This project is using the following libraries:
-[spaCy](https://spacy.io/): a NLP library and language model in python
-[qahirah](https://github.com/ldo/qahirah): a python for [Cairo graphic library](https://www.cairographics.org/)
-Poem enlisted in the examples are accessed from [Poetry Foundation website](https://www.poetryfoundation.org/)
+This project is using the following libraries:<br/>
+[spaCy](https://spacy.io/): a NLP library and language model in python<br/>
+[qahirah](https://github.com/ldo/qahirah): a python for [Cairo graphic library](https://www.cairographics.org/)<br/>
+Poem enlisted in the examples are accessed from [Poetry Foundation website](https://www.poetryfoundation.org/)<br/>
 

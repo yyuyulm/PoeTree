@@ -1,10 +1,13 @@
 # PoeTree
 
-Generate tree from poems or any texts
+Generate tree from poems or any texts.
 
-repository for the following google colab
-https://colab.research.google.com/drive/1kiyZIZuOYF35DyVN0QpTn8u0XDOFk0lU?usp=sharing
+Repository for [this google colab notebook]
+(https://colab.research.google.com/drive/1kiyZIZuOYF35DyVN0QpTn8u0XDOFk0lU?usp=sharing)
 
+## Desciption
+This is a project that aimes to capture the poetic language and use it as source to generate poetic visuals, as well as giving the audiecne an insight into the shape and form of poetry with a graphical representation. 
+<br/>
 
 ## Results
 ![at sunset](https://user-images.githubusercontent.com/73414720/166861264-f7b9fc44-fae8-4e7e-b7a1-b1646f59d03d.png)
@@ -32,4 +35,10 @@ A single tree graph is gererated from each sentence in the input poem, with each
 Then these lines are overlapped on top of each other, forming the final tree graph of the poem.
 The poem is then typed out with the same coloration rule, next to the tree graph.<br/>
 ![Wide](https://user-images.githubusercontent.com/73414720/166862280-6f415a7b-5113-4245-b3a7-3ce117b7c3b4.png)
+<br/>
+## References and Credits
+This project is using the following libraries:
+[spaCy](https://spacy.io/): a NLP library and language model in python
+[qahirah](https://github.com/ldo/qahirah): a python for [Cairo graphic library](https://www.cairographics.org/)
+Poem enlisted in the examples are accessed from [Poetry Foundation website](https://www.poetryfoundation.org/)
 

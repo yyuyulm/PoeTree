@@ -32,7 +32,7 @@ A single tree graph is gererated from each sentence in the input poem, with each
 ![line 16](https://user-images.githubusercontent.com/73414720/166862136-1a33abd4-acea-45be-b5de-4417716bcb58.png)
 ![line 12](https://user-images.githubusercontent.com/73414720/166862361-1f766717-8b22-4068-84dd-20de647b8b26.png)
 
-Then these lines are overlapped on top of each other, forming the final tree graph of the poem.
+Then these graphs are overlapped on top of each other, forming the final tree graph of the poem.
 The poem is then typed out with the same coloration rule, next to the tree graph.<br/>
 ![Wide](https://user-images.githubusercontent.com/73414720/166862280-6f415a7b-5113-4245-b3a7-3ce117b7c3b4.png)
 <br/>

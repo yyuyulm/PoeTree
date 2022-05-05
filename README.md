@@ -40,5 +40,5 @@ The poem is then typed out with the same coloration rule, next to the tree graph
 This project is using the following libraries:<br/>
 [spaCy](https://spacy.io/): a NLP library and language model in python<br/>
 [qahirah](https://github.com/ldo/qahirah): a python for [Cairo graphic library](https://www.cairographics.org/)<br/>
-Poem enlisted in the examples are accessed from [Poetry Foundation website](https://www.poetryfoundation.org/)<br/>
+Some of the poems enlisted in the examples are accessed from [Poetry Foundation website](https://www.poetryfoundation.org/), the rest are written by me.<br/>
 

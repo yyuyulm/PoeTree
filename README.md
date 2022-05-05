@@ -9,6 +9,9 @@ Repository for [this google colab notebook]
 This is a project that aimes to capture the poetic language and use it as source to generate poetic visuals, as well as giving the audiecne an insight into the shape and form of poetry with a graphical representation. I wish to create a intuitive connection between words and visuals, so that the audience can compare and contrast different poems by comparing their graphical forms.
 <br/>
 
+## Design Process
+
+<br/>
 ## Results
 ![at sunset](https://user-images.githubusercontent.com/73414720/166861264-f7b9fc44-fae8-4e7e-b7a1-b1646f59d03d.png)
 ![earth day](https://user-images.githubusercontent.com/73414720/166861273-a25db418-db58-4eed-be6b-0d94d793fdba.png)

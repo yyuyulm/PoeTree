@@ -6,7 +6,7 @@ Repository for [this google colab notebook]
 (https://colab.research.google.com/drive/1kiyZIZuOYF35DyVN0QpTn8u0XDOFk0lU?usp=sharing)
 
 ## Desciption
-This is a project that aimes to capture the poetic language and use it as source to generate poetic visuals, as well as giving the audiecne an insight into the shape and form of poetry with a graphical representation. 
+This is a project that aimes to capture the poetic language and use it as source to generate poetic visuals, as well as giving the audiecne an insight into the shape and form of poetry with a graphical representation. I wish to create a intuitive connection between words and visuals, so that the audience can compare and contrast different poems by comparing their graphical forms.
 <br/>
 
 ## Results

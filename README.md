@@ -26,9 +26,9 @@ A single tree graph is gererated from each sentence in the input poem, with each
 ![line 17](https://user-images.githubusercontent.com/73414720/166862078-50671d55-4004-40ab-9f86-39cbd9e4c984.png)
 ![line 9](https://user-images.githubusercontent.com/73414720/166862087-93e21af9-cb4b-4876-9ff8-46bd212cc02e.png)
 ![line 4](https://user-images.githubusercontent.com/73414720/166862102-692e81a3-777d-4f77-9cc6-8b82305fa195.png)
-![line 5](https://user-images.githubusercontent.com/73414720/166862113-1877ba0c-edf1-4189-8fc1-ef62227de92a.png)
-![line 7](https://user-images.githubusercontent.com/73414720/166862120-8a28bbee-c707-42f2-964c-083b3bf29583.png)
 ![line 16](https://user-images.githubusercontent.com/73414720/166862136-1a33abd4-acea-45be-b5de-4417716bcb58.png)
+![line 12](https://user-images.githubusercontent.com/73414720/166862361-1f766717-8b22-4068-84dd-20de647b8b26.png)
+
 Then these lines are overlapped on top of each other, forming the final tree graph of the poem.
 The poem is then typed out with the same coloration rule, next to the tree graph.<br/>
 ![Wide](https://user-images.githubusercontent.com/73414720/166862280-6f415a7b-5113-4245-b3a7-3ce117b7c3b4.png)

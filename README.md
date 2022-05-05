@@ -56,11 +56,10 @@ There is a lack of correspondence between the text and the drawing after I displ
 <br/>
 
 ## Future Work
-A. Expand the scale of the project to poetry collections or a corpus of a poet's work through life
-B. Create a tighter connection between the text and the visuals, perhaps by replacing the branch line with texts?
-C. Explore more visual forms for branches, such as curves, shsapes, or complex units.
-D. Finetune the color palette and add multiple color palettes as themes.
-<br/>
+A. Expand the scale of the project to poetry collections or a corpus of a poet's work through life<br/>
+B. Create a tighter connection between the text and the visuals, perhaps by replacing the branch line with texts?<br/>
+C. Explore more visual forms for branches, such as curves, shsapes, or complex units.<br/>
+D. Finetune the color palette and add multiple color palettes as themes.<br/>
 
 ## References and Credits
 This project is using the following libraries:<br/>

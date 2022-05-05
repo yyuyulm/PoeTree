@@ -7,7 +7,6 @@ https://colab.research.google.com/drive/1kiyZIZuOYF35DyVN0QpTn8u0XDOFk0lU?usp=sh
 
 
 ## Results
-<br/>
 ![at sunset](https://user-images.githubusercontent.com/73414720/166861264-f7b9fc44-fae8-4e7e-b7a1-b1646f59d03d.png)
 ![earth day](https://user-images.githubusercontent.com/73414720/166861273-a25db418-db58-4eed-be6b-0d94d793fdba.png)
 ![often i am permitted to return to a meadow](https://user-images.githubusercontent.com/73414720/166861280-0a188a67-dfe9-49a2-9d8d-642eeccdc264.png)
@@ -23,5 +22,4 @@ https://colab.research.google.com/drive/1kiyZIZuOYF35DyVN0QpTn8u0XDOFk0lU?usp=sh
 <br/>
 
 ## How it works
-<br/>
 
